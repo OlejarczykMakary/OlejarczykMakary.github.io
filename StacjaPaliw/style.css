@@ -1,0 +1,26 @@
+head {
+
+}
+
+{
+	
+	color:white;
+}
+
+  
+  
+h2 {
+	text-align:left;
+    color:white;
+	background-color:rgb(130, 69, 85);
+	height: 230px;
+		
+}
+
+
+
+footer {
+  background-color:rgb(130, 69, 85);
+  height: 235px;
+	width: 100%;
+}
